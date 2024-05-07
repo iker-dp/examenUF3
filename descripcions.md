@@ -12,3 +12,5 @@
 - He substituit algunes etiquetes per article, section i figure, aconseguint un html més semàntic.
 
 - He afegit un botó "skip to main content".
+
+- He modularitzat el css i he afegit l'atribut lang a l'html.
