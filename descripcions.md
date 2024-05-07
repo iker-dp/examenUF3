@@ -9,4 +9,4 @@
 
 - He afegit la imatge que he trobat a unsplash d'ús gratuit, l'he reescalat i el seu pes es de 54kb. També he afegit un alt amb un text descriptiu de la imatge.
 
-- He afegit les etiquetes article.
+- He substituit algunes etiquetes per article, section i figure, aconseguint un html més semàntic.
