@@ -4,3 +4,5 @@
 - He canviat l'etiqueta div que emmagatzema el contingut principal per l'etiqueta main.
 
 - He afegit el titol del document.
+
+- He afegit i modificat diferents etiquetes relatives als títols, com l'adició d'un h1 i canviat els p amb negreta que simulaven el títol de l'article per h2.
