@@ -8,3 +8,5 @@
 - He afegit i modificat diferents etiquetes relatives als títols, com l'adició d'un h1 i canviat els p amb negreta que simulaven el títol de l'article per h2.
 
 - He afegit la imatge que he trobat a unsplash d'ús gratuit, l'he reescalat i el seu pes es de 54kb. També he afegit un alt amb un text descriptiu de la imatge.
+
+- He afegit les etiquetes article.
