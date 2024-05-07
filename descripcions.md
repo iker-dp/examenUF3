@@ -18,3 +18,6 @@
 - He afegit l'etiqueta aria-labelledby als enllaços per facilitar el seu reconeixement. També he afegit l'atribut role a les etiquetes que n'hi havia més d'una.
 
 - He tret les etiquetes role ja que lighthouse deia que estaven malament implementades. Es millor no posar ARIA que posar un mal ARIA.
+
+- He tret les tables ja que dificulten les tecnologies de lectura de pantalla i les he canviat per etiquetes semàntiques.
+
