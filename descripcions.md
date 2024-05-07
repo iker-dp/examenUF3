@@ -16,3 +16,5 @@
 - He modularitzat el css i he afegit l'atribut lang a l'html.
 
 - He afegit l'etiqueta aria-labelledby als enllaços per facilitar el seu reconeixement. També he afegit l'atribut role a les etiquetes que n'hi havia més d'una.
+
+- He tret les etiquetes role ja que lighthouse deia que estaven malament implementades. Es millor no posar ARIA que posar un mal ARIA.
